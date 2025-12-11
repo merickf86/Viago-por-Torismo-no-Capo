@@ -1,19 +1,22 @@
-/* src/index.css */
+/* src/index.css (renamed App.css as requested) */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+
 body {
-  font-family: 'Inter', sans-serif;
-  background-color: #f7fafc;
-  margin: 0;
-  padding: 0;
+font-family: 'Inter', sans-serif;
+background-color: #f7fafc;
+margin: 0;
+padding: 0;
 }
+
 
 a {
-  text-decoration: none;
+text-decoration: none;
 }
 
+
 button {
-  cursor: pointer;
+cursor: pointer;
 }
